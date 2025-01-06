@@ -254,5 +254,3 @@
 - Tích hợp AI để phân tích dữ liệu học tập và gợi ý cải thiện.
 - Xây dựng phiên bản ứng dụng di động (sử dụng Kivy hoặc React Native).
 - Thêm tính năng chia sẻ tiến độ học tập với bạn bè hoặc cộng đồng.
-
-Nếu bạn cần hỗ trợ trong từng bước cụ thể, hãy cho tôi biết!
